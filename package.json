@@ -1,0 +1,26 @@
+{
+  "name": "idyll-plugin-media-asset-manager",
+  "version": "0.0.1",
+  "description": "Idyll plugin to manage media assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager.git"
+  },
+  "keywords": [
+    "idyll",
+    "plugin",
+    "media",
+    "asset",
+    "management"
+  ],
+  "author": "Christian Frisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager/issues"
+  },
+  "homepage": "https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager#readme"
+}

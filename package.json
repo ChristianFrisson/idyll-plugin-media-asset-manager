@@ -1,6 +1,6 @@
 {
   "name": "idyll-plugin-media-asset-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Idyll plugin to manage media assets",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager/issues"
   },
-  "homepage": "https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager#readme"
+  "homepage": "https://github.com/ChristianFrisson/idyll-plugin-media-asset-manager#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
